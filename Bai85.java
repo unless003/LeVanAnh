@@ -1,4 +1,6 @@
+package Test;
 import java.util.*; 
+
 import java.io.*; 
  public class Bai85 {
  public static void main(String[] args)
