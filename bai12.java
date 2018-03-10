@@ -20,7 +20,7 @@ public class bai12 {
 		
 	
 		
-		System.out.println(" TRUNG BINH CONG LA : "+ (a+b+c)/5);
+		System.out.println(" TRUNG BINH CONG LA : "+ (a+b+c)/3);
 	}
 	
 
